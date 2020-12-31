@@ -14,6 +14,8 @@ Git Clone the repo if you want to test the app in your local environment. In com
 
 ## Usage 
 Visit the live deployed website at:
+
+### https://dry-lowlands-17382.herokuapp.com/
     
 ## Credits 
 UofA Coding Bootcamp
